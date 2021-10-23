@@ -1,0 +1,6 @@
+aaa	password
+aaa	123abc
+aba	password
+aba	password
+abb	123abc
+abc	abc123
