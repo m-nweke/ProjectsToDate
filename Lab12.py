@@ -83,6 +83,3 @@ while ask:
         print('Please try again')
         print()
 
-######################################################################################
-#My words that occur only once and unique words are one less then what they should be#
-######################################################################################
